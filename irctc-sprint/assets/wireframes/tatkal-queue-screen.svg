@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="375" height="720" viewBox="0 0 375 720">
+  <rect width="375" height="720" fill="#f5f5f5"/>
+  <rect x="0" y="0" width="375" height="56" fill="#e0e0e0" stroke="#999"/>
+  <text x="16" y="34" font-family="Arial" font-size="12" fill="#333">[IRCTC Logo]</text>
+  <text x="320" y="34" font-family="Arial" font-size="12" fill="#333">[Profile]</text>
+  <text x="187" y="90" text-anchor="middle" font-family="Arial" font-size="11" fill="#666">TATKAL BOOKING OPENS IN</text>
+  <rect x="87" y="100" width="200" height="48" fill="#fff" stroke="#333" stroke-width="2"/>
+  <text x="187" y="132" text-anchor="middle" font-family="Arial" font-size="20" fill="#333">04 : 23 : 11</text>
+  <text x="187" y="148" text-anchor="middle" font-family="Arial" font-size="9" fill="#666">ê Live countdown</text>
+  <text x="16" y="180" font-family="Arial" font-size="11" fill="#666">YOUR QUEUE POSITION</text>
+  <rect x="16" y="188" width="343" height="100" fill="#fff" stroke="#333"/>
+  <text x="32" y="220" font-family="Arial" font-size="24" fill="#333">#4,281</text>
+  <text x="32" y="245" font-family="Arial" font-size="12" fill="#666">Est. wait: ~9 minutes</text>
+  <rect x="32" y="258" width="200" height="12" fill="#ccc"/>
+  <rect x="32" y="258" width="100" height="12" fill="#666"/>
+  <text x="240" y="268" font-family="Arial" font-size="10" fill="#666">Progress</text>
+  <rect x="16" y="310" width="343" height="120" fill="#fff" stroke="#ccc"/>
+  <text x="32" y="335" font-family="Arial" font-size="11" fill="#333"> Train: 12622 Tamil Nadu Exp</text>
+  <text x="32" y="358" font-family="Arial" font-size="11" fill="#333"> Class: Sleeper | Pax: 2</text>
+  <text x="32" y="381" font-family="Arial" font-size="11" fill="#333"> Passenger details: Saved</text>
+  <rect x="16" y="400" width="160" height="36" fill="#e0e0e0" stroke="#999"/>
+  <text x="96" y="423" text-anchor="middle" font-family="Arial" font-size="11" fill="#333">Change Train</text>
+  <rect x="199" y="400" width="160" height="36" fill="#e0e0e0" stroke="#999"/>
+  <text x="279" y="423" text-anchor="middle" font-family="Arial" font-size="11" fill="#333">Update Passengers</text>
+  <rect x="16" y="460" width="343" height="60" fill="#fff" stroke="#ccc" stroke-dasharray="4"/>
+  <text x="32" y="485" font-family="Arial" font-size="10" fill="#666">Tip: Seat preferences pre-loaded.</text>
+  <text x="32" y="502" font-family="Arial" font-size="10" fill="#666">Booking takes under 30s when your turn comes.</text>
+  <text x="16" y="560" font-family="Arial" font-size="9" fill="#999">NEW vs OLD: Queue position + countdown replace infinite spinner on 502</text>
+  <rect x="16" y="580" width="343" height="80" fill="#fff" stroke="#ccc"/>
+  <text x="32" y="605" font-family="Arial" font-size="10" fill="#666">ERROR STATE: Connection lost</text>
+  <text x="32" y="625" font-family="Arial" font-size="10" fill="#333">Your position #4,281 is saved. Reconnecting...</text>
+  <rect x="32" y="635" width="120" height="28" fill="#e0e0e0" stroke="#999"/>
+  <text x="92" y="654" text-anchor="middle" font-family="Arial" font-size="10" fill="#333">Retry Now</text>
+</svg>
