@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="375" height="640" viewBox="0 0 375 640">
+  <rect width="375" height="640" fill="#f5f5f5"/>
+  <rect x="0" y="0" width="375" height="48" fill="#e0e0e0" stroke="#999"/>
+  <text x="16" y="30" font-family="Arial" font-size="12" fill="#333">Train Search Results</text>
+  <rect x="16" y="60" width="343" height="40" fill="#fff" stroke="#ccc"/>
+  <text x="28" y="85" font-family="Arial" font-size="11" fill="#333">Chennai í Bangalore | 12 Jun 2026</text>
+  <text x="16" y="120" font-family="Arial" font-size="10" fill="#666">ACTIVE FILTER CHIPS (persisted in URL)</text>
+  <rect x="16" y="128" width="70" height="28" rx="14" fill="#666"/>
+  <text x="51" y="146" text-anchor="middle" font-family="Arial" font-size="9" fill="#fff">AC 3-Tier </text>
+  <rect x="94" y="128" width="58" height="28" rx="14" fill="#666"/>
+  <text x="123" y="146" text-anchor="middle" font-family="Arial" font-size="9" fill="#fff">Tatkal </text>
+  <rect x="160" y="128" width="90" height="28" rx="14" fill="#666"/>
+  <text x="205" y="146" text-anchor="middle" font-family="Arial" font-size="9" fill="#fff">06:00-12:00 </text>
+  <rect x="258" y="128" width="50" height="28" rx="14" fill="#e0e0e0" stroke="#999"/>
+  <text x="283" y="146" text-anchor="middle" font-family="Arial" font-size="9" fill="#333">+ Add</text>
+  <text x="16" y="180" font-family="Arial" font-size="10" fill="#666">8 trains match (47 total) ê Tap chip to remove</text>
+  <rect x="16" y="192" width="343" height="72" fill="#fff" stroke="#333"/>
+  <text x="28" y="218" font-family="Arial" font-size="12" fill="#333">12622 Tamil Nadu Exp</text>
+  <text x="28" y="238" font-family="Arial" font-size="10" fill="#666">07:15 í 13:40 | 3A Tatkal π1,840</text>
+  <text x="28" y="254" font-family="Arial" font-size="9" fill="#999">Tap í train details (filters preserved on back)</text>
+  <rect x="16" y="274" width="343" height="72" fill="#fff" stroke="#ccc"/>
+  <text x="28" y="300" font-family="Arial" font-size="12" fill="#333">12639 Brindavan Exp</text>
+  <text x="28" y="320" font-family="Arial" font-size="10" fill="#666">07:40 í 14:05 | 3A Tatkal π1,620</text>
+  <rect x="16" y="360" width="343" height="100" fill="#fff" stroke="#ccc" stroke-dasharray="4"/>
+  <text x="28" y="385" font-family="Arial" font-size="10" fill="#666">EMPTY STATE: No trains match filters</text>
+  <text x="28" y="405" font-family="Arial" font-size="10" fill="#333">Try removing "Tatkal" or widening time range</text>
+  <rect x="28" y="415" width="100" height="28" fill="#e0e0e0" stroke="#999"/>
+  <text x="78" y="434" text-anchor="middle" font-family="Arial" font-size="10" fill="#333">Clear Filters</text>
+  <text x="16" y="490" font-family="Arial" font-size="9" fill="#999">CHANGED: Filter chips row + URL sync (was: silent reset on back nav)</text>
+  <rect x="16" y="510" width="160" height="100" fill="#fff" stroke="#ccc"/>
+  <text x="24" y="530" font-family="Arial" font-size="9" fill="#666">BEFORE</text>
+  <text x="24" y="548" font-family="Arial" font-size="9" fill="#333">No chips visible</text>
+  <text x="24" y="564" font-family="Arial" font-size="9" fill="#333">47 unfiltered trains</text>
+  <rect x="199" y="510" width="160" height="100" fill="#fff" stroke="#333"/>
+  <text x="207" y="530" font-family="Arial" font-size="9" fill="#666">AFTER</text>
+  <text x="207" y="548" font-family="Arial" font-size="9" fill="#333">Chips + count badge</text>
+  <text x="207" y="564" font-family="Arial" font-size="9" fill="#333">8 filtered trains</text>
+</svg>
