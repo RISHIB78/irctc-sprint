@@ -1,0 +1,22 @@
+config:
+  target: "http://localhost:3000"
+  phases:
+    - duration: 60
+      arrivalRate: 10
+
+scenarios:
+  - flow:
+      - get:
+          url: "/api/restaurants"
+      - post:
+          url: "/api/auth/login"
+          json:
+            email: "seed@quickbite.com"
+            password: "password123"
+          capture:
+            - json: "$.token"
+              as: "token"
+      - get:
+          url: "/api/orders/history"
+          headers:
+            Authorization: "Bearer {{ token }}"
