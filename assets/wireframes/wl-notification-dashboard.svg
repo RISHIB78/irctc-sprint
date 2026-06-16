@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="375" height="680" viewBox="0 0 375 680">
+  <rect width="375" height="680" fill="#f5f5f5"/>
+  <rect x="0" y="0" width="375" height="48" fill="#e0e0e0" stroke="#999"/>
+  <text x="16" y="30" font-family="Arial" font-size="12" fill="#333">My Bookings</text>
+  <text x="320" y="30" font-family="Arial" font-size="12" fill="#333">[= 2]</text>
+  <rect x="16" y="60" width="343" height="140" fill="#fff" stroke="#333"/>
+  <text x="28" y="85" font-family="Arial" font-size="12" fill="#333">PNR: 4829167534</text>
+  <text x="28" y="105" font-family="Arial" font-size="10" fill="#666">12622 | Chennai ’ Bangalore | 12 Jun</text>
+  <rect x="28" y="115" width="80" height="24" rx="4" fill="#ff9800"/>
+  <text x="68" y="131" text-anchor="middle" font-family="Arial" font-size="10" fill="#fff">WL/8</text>
+  <text x="28" y="155" font-family="Arial" font-size="11" fill="#333">Confirmation probability: </text>
+  <text x="200" y="155" font-family="Arial" font-size="11" fill="#4caf50" font-weight="bold">72% likely</text>
+  <rect x="28" y="165" width="200" height="8" fill="#e0e0e0"/>
+  <rect x="28" y="165" width="144" height="8" fill="#4caf50"/>
+  <text x="28" y="190" font-family="Arial" font-size="9" fill="#666">‘ Improved from WL/18 yesterday</text>
+  <rect x="16" y="215" width="343" height="100" fill="#fff" stroke="#ccc"/>
+  <text x="28" y="238" font-family="Arial" font-size="10" fill="#666">NOTIFICATION PREFERENCES</text>
+  <rect x="28" y="248" width="20" height="20" fill="#4caf50" stroke="#333"/>
+  <text x="56" y="262" font-family="Arial" font-size="10" fill="#333">SMS alerts (transactional)</text>
+  <rect x="28" y="276" width="20" height="20" fill="#4caf50" stroke="#333"/>
+  <text x="56" y="290" font-family="Arial" font-size="10" fill="#333">WhatsApp updates</text>
+  <rect x="28" y="304" width="20" height="20" fill="#ccc" stroke="#999"/>
+  <text x="56" y="318" font-family="Arial" font-size="10" fill="#333">Email (optional)</text>
+  <text x="16" y="340" font-family="Arial" font-size="10" fill="#666">RECENT UPDATES</text>
+  <rect x="16" y="348" width="343" height="56" fill="#fff" stroke="#ccc"/>
+  <text x="28" y="370" font-family="Arial" font-size="10" fill="#333">Today 06:12  WL/8 (was WL/12)</text>
+  <text x="28" y="388" font-family="Arial" font-size="9" fill="#666">SMS sent  | WhatsApp sent </text>
+  <rect x="16" y="412" width="343" height="56" fill="#fff" stroke="#ccc"/>
+  <text x="28" y="434" font-family="Arial" font-size="10" fill="#333">Yesterday 18:30  WL/12 (was WL/18)</text>
+  <text x="28" y="452" font-family="Arial" font-size="9" fill="#666">In-app notification </text>
+  <rect x="16" y="485" width="343" height="72" fill="#fff" stroke="#333"/>
+  <text x="28" y="510" font-family="Arial" font-size="10" fill="#4caf50">CHART PREP ALERT (push notification preview)</text>
+  <text x="28" y="530" font-family="Arial" font-size="11" fill="#333">Your ticket is CONFIRMED! Coach S3, Berth 24</text>
+  <text x="28" y="548" font-family="Arial" font-size="9" fill="#666">Tap to view e-ticket ’</text>
+  <text x="16" y="590" font-family="Arial" font-size="9" fill="#999">NEW: WL timeline + probability badge (was: manual PNR refresh only)</text>
+  <rect x="16" y="605" width="343" height="60" fill="#fff" stroke="#ccc"/>
+  <text x="28" y="628" font-family="Arial" font-size="9" fill="#666">EMPTY: No WL bookings  show upcoming confirmed trips only</text>
+</svg>
